@@ -1,0 +1,15 @@
+body{
+    background:rgb(93, 93, 255); 
+}
+#logo{
+    display: none; 
+}
+#menu{
+    display: none; 
+}
+#contactus{
+    display: none; 
+}
+#aboutus{
+    display: none; 
+}
